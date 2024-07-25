@@ -7,7 +7,7 @@ Ethereum transaction library in PHP.
 # Install
 
 ```
-composer require mrinte/ethereum-tx
+composer require zhujinkui/ethereum-tx
 ```
 
 # Usage
